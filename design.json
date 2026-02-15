@@ -11,12 +11,6 @@
               {
                 "type": "heading",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_heading_1",
@@ -27,23 +21,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"v-col-background-color\" style=\"height: 100%;width: 100% !important;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;\"><!--<![endif]-->\n<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_1\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:240px 10px 0px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-text-align v-line-height v-font-size\" style=\"margin: 0px; color: #ffffff; line-height: 120%; text-align: left; word-wrap: break-word; font-family: Arvo; font-size: 22px; font-weight: 400;\"><span><span><span><span><span><span>Discover the<br>Elegance of Our</span></span></span></span></span></span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table></div>\n<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_2\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px 10px 9px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-text-align v-line-height v-font-size\" style=\"margin: 0px; color: #ffffff; line-height: 140%; text-align: left; word-wrap: break-word; font-family: Arvo; font-size: 70px; font-weight: 400;\"><span><span style=\"line-height: 63px;\"><span style=\"line-height: 63px;\"><span style=\"line-height: 63px;\"><span style=\"line-height: 63px;\"><span style=\"line-height: 63px;\"><span style=\"line-height: 63px;\"><span style=\"line-height: 63px;\"><span style=\"line-height: 63px;\"><strong>LUXURY HOTEL</strong></span></span></span></span></span></span></span></span></span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table></div>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "100%"
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -53,10 +37,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -65,12 +47,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_1",
@@ -86,18 +62,9 @@
                 "autoWidth": true,
                 "width": "600px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -107,19 +74,12 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
           }
         ],
         "values": {
-          "color": "",
-          "headingType": "",
-          "fontFamily": {},
-          "fontSize": "",
-          "textAlign": "",
-          "lineHeight": "",
           "displayCondition": null,
           "_meta": {
             "htmlID": "u_row_1",
@@ -136,17 +96,9 @@
             "width": ""
           },
           "padding": "0px",
-          "border": {
-            "borderBottom": "",
-            "borderLeft": "",
-            "borderRight": "",
-            "borderTop": ""
-          },
-          "borderRadius": "",
+          "border": {},
           "calculatedWidth": null,
           "calculatedHeight": null,
-          "textColor": "",
-          "backgroundColor": "",
           "backgroundImage": {
             "url": "url(assets/1717401099943-Group_205.png)",
             "fullWidth": false,
@@ -156,7 +108,6 @@
           },
           "contentWidth": "500px",
           "contentAlign": "center",
-          "preheaderText": "",
           "columns": false,
           "hideDesktop": false,
           "columnsBackgroundColor": ""
@@ -172,12 +123,6 @@
               {
                 "type": "text",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_text_1",
@@ -188,23 +133,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_divider_2\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;\">\n<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"0px\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\" width=\"100%\">\n<tbody>\n<tr style=\"vertical-align: top\">\n<td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n<span>&nbsp;</span>\n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -214,10 +149,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -227,12 +160,6 @@
               {
                 "type": "image",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_image_2",
@@ -243,23 +170,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_1\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:30px 10px 0px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" src=\"/static/templates/seasonal-promotions-for-hotel-stays/assets/1717401288348-Mask_20group.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 580px;\" title=\"image\" width=\"580\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -269,12 +186,10 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
-                    "url": "/static/templates/seasonal-promotions-for-hotel-stays/assets/1717401288348-Mask_20group.png",
+                    "url": "assets/1717401288348-Mask_20group.png",
                     "width": 580,
                     "height": "auto"
                   }
@@ -283,12 +198,6 @@
               {
                 "type": "text",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_text_3",
@@ -299,23 +208,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_button_2\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:30px 10px 60px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->\n<div align=\"center\" class=\"v-text-align\">\n<!--[if mso]><v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" href=\"assets/asset_2f8c5a96.bin\" style=\"height:37px; v-text-anchor:middle; width:172px;\" arcsize=\"11%\"  strokecolor=\"#ffffff\" strokeweight=\"1px\" fillcolor=\"#1300c9\"><w:anchorlock/><center style=\"color:#FFFFFF;\"><![endif]-->\n<a class=\"v-button v-size-width v-font-size\" href=\"assets/asset_2f8c5a96.bin\" style=\"box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #1300c9; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:30%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;border-top-color: #ffffff; border-top-style: solid; border-top-width: 1px; border-left-color: #ffffff; border-left-style: solid; border-left-width: 1px; border-right-color: #ffffff; border-right-style: solid; border-right-width: 1px; border-bottom-color: #ffffff; border-bottom-style: solid; border-bottom-width: 1px;font-size: 14px;\" target=\"_blank\">\n<span class=\"v-line-height\" style=\"display:block;padding:10px 20px;line-height:120%;\"><span style=\"line-height: 16.8px;\">Show More</span></span>\n</a>\n<!--[if mso]></center></v:roundrect><![endif]-->\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -325,10 +224,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -337,12 +234,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_1",
@@ -358,18 +249,9 @@
                 "autoWidth": true,
                 "width": "600px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -379,19 +261,12 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
           }
         ],
         "values": {
-          "color": "",
-          "headingType": "",
-          "fontFamily": {},
-          "fontSize": "",
-          "textAlign": "",
-          "lineHeight": "",
           "displayCondition": null,
           "_meta": {
             "htmlID": "u_row_2",
@@ -408,17 +283,9 @@
             "width": ""
           },
           "padding": "0px",
-          "border": {
-            "borderBottom": "",
-            "borderLeft": "",
-            "borderRight": "",
-            "borderTop": ""
-          },
-          "borderRadius": "",
+          "border": {},
           "calculatedWidth": null,
           "calculatedHeight": null,
-          "textColor": "",
-          "backgroundColor": "",
           "backgroundImage": {
             "url": "",
             "fullWidth": false,
@@ -428,7 +295,6 @@
           },
           "contentWidth": "500px",
           "contentAlign": "center",
-          "preheaderText": "",
           "columns": false,
           "hideDesktop": false,
           "columnsBackgroundColor": ""
@@ -444,12 +310,6 @@
               {
                 "type": "text",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_text_1",
@@ -460,23 +320,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"u-row\" style=\"margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;\">\n<div style=\"border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;\">\n<!--[if (mso)|(IE)]><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td style=\"padding: 0px;background-color: transparent;\" align=\"center\"><table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"width:600px;\"><tr style=\"background-color: transparent;\"><![endif]-->\n<!--[if (mso)|(IE)]><td align=\"center\" width=\"600\" class=\"v-col-background-color v-col-border\" style=\"background-color: #ffffff;width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\" valign=\"top\"><![endif]-->\n<div class=\"u-col u-col-100\" style=\"max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;\">\n<div class=\"v-col-background-color\" style=\"background-color: #ffffff;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_divider_4\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:30px 10px;font-family:'Raleway',sans-serif;\">\n<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"0px\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\" width=\"100%\">\n<tbody>\n<tr style=\"vertical-align: top\">\n<td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n<div class=\"unlayer2be\"><div class=\"unlayer2be\"><span>&nbsp;</span></div></div>\n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>\n</div>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->\n</div>\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "320px"
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -486,10 +336,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -498,12 +346,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_1",
@@ -520,17 +362,9 @@
                 "width": ""
               },
               "padding": "0px",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -540,19 +374,12 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
           }
         ],
         "values": {
-          "color": "",
-          "headingType": "",
-          "fontFamily": {},
-          "fontSize": "",
-          "textAlign": "",
-          "lineHeight": "",
           "displayCondition": null,
           "_meta": {
             "htmlID": "u_row_3",
@@ -569,17 +396,9 @@
             "width": ""
           },
           "padding": "0px",
-          "border": {
-            "borderBottom": "",
-            "borderLeft": "",
-            "borderRight": "",
-            "borderTop": ""
-          },
-          "borderRadius": "",
+          "border": {},
           "calculatedWidth": null,
           "calculatedHeight": null,
-          "textColor": "",
-          "backgroundColor": "",
           "backgroundImage": {
             "url": "",
             "fullWidth": false,
@@ -589,7 +408,6 @@
           },
           "contentWidth": "500px",
           "contentAlign": "center",
-          "preheaderText": "",
           "columns": false,
           "hideDesktop": false,
           "columnsBackgroundColor": ""
@@ -606,12 +424,6 @@
               {
                 "type": "heading",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_heading_1",
@@ -622,22 +434,14 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"v-col-background-color\" style=\"background-color: #ffffff;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_5\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-text-align v-line-height v-font-size\" style=\"margin: 0px; color: #1300c9; line-height: 120%; text-align: left; word-wrap: break-word; font-family: Arvo; font-size: 22px; font-weight: 400;\"><span><span><span><span><span>Experience the Ultimate in Comfort and Luxury</span></span></span></span></span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "100%"
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
+                  "border": {},
                   "borderRadius": "0px",
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
                   "backgroundColor": "rgb(255, 255, 255)",
                   "backgroundImage": {
                     "url": "",
@@ -648,10 +452,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -660,12 +462,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_1",
@@ -681,18 +477,9 @@
                 "autoWidth": true,
                 "width": "241.02px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -702,7 +489,6 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
@@ -712,12 +498,6 @@
               {
                 "type": "text",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_text_1",
@@ -728,22 +508,14 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"v-col-background-color\" style=\"background-color: #ffffff;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_2\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 20px 0px 10px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\">Dear valued customer, we are excited to announce our seasonal promotions for hotel stays.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_button_1\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:15px 10px 0px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->\n<div align=\"left\" class=\"v-text-align\">\n<!--[if mso]><v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" href=\"assets/asset_2f8c5a96.bin\" style=\"height:37px; v-text-anchor:middle; width:154px;\" arcsize=\"11%\"  strokecolor=\"#1300c9\" strokeweight=\"1px\" fillcolor=\"#ffffff\"><w:anchorlock/><center style=\"color:#1300c9;\"><![endif]-->\n<a class=\"v-button v-size-width v-font-size\" href=\"assets/asset_2f8c5a96.bin\" style=\"box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #1300c9; background-color: #ffffff; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:46%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;border-top-color: #1300c9; border-top-style: solid; border-top-width: 1px; border-left-color: #1300c9; border-left-style: solid; border-left-width: 1px; border-right-color: #1300c9; border-right-style: solid; border-right-width: 1px; border-bottom-color: #1300c9; border-bottom-style: solid; border-bottom-width: 1px;font-size: 14px;\" target=\"_blank\">\n<span class=\"v-line-height\" style=\"display:block;padding:10px 20px;line-height:120%;\"><span style=\"line-height: 16.8px;\">Show More</span></span>\n</a>\n<!--[if mso]></center></v:roundrect><![endif]-->\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "100%"
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
+                  "border": {},
                   "borderRadius": "0px",
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
                   "backgroundColor": "rgb(255, 255, 255)",
                   "backgroundImage": {
                     "url": "",
@@ -754,10 +526,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -766,12 +536,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_2",
@@ -787,18 +551,9 @@
                 "autoWidth": true,
                 "width": "358.98px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -808,19 +563,12 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
           }
         ],
         "values": {
-          "color": "",
-          "headingType": "",
-          "fontFamily": {},
-          "fontSize": "",
-          "textAlign": "",
-          "lineHeight": "",
           "displayCondition": null,
           "_meta": {
             "htmlID": "u_row_4",
@@ -837,17 +585,9 @@
             "width": ""
           },
           "padding": "0px",
-          "border": {
-            "borderBottom": "",
-            "borderLeft": "",
-            "borderRight": "",
-            "borderTop": ""
-          },
-          "borderRadius": "",
+          "border": {},
           "calculatedWidth": null,
           "calculatedHeight": null,
-          "textColor": "",
-          "backgroundColor": "",
           "backgroundImage": {
             "url": "",
             "fullWidth": false,
@@ -857,7 +597,6 @@
           },
           "contentWidth": "500px",
           "contentAlign": "center",
-          "preheaderText": "",
           "columns": false,
           "hideDesktop": false,
           "columnsBackgroundColor": ""
@@ -873,12 +612,6 @@
               {
                 "type": "heading",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_heading_1",
@@ -889,22 +622,14 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"v-col-background-color\" style=\"background-color: #ffffff;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_divider_1\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:50px 10px 30px;font-family:'Raleway',sans-serif;\">\n<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"0px\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\" width=\"100%\">\n<tbody>\n<tr style=\"vertical-align: top\">\n<td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n<span>&nbsp;</span>\n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table></div>\n<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_8\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 0px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-text-align v-line-height v-font-size\" style=\"margin: 0px; color: #1300c9; line-height: 120%; text-align: left; word-wrap: break-word; font-family: Arvo; font-size: 22px; font-weight: 400;\"><span><span><span><span>Experience the Best<br>of Our Hotel</span></span></span></span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table></div>\n<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_4\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 20px 20px 10px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\">Dear valued guest,\n\nWe are thrilled to announce our seasonal promotions for upcoming stays at [Hotel Name]. These offers have been tailored to make your experience with us even more enjoyable.</p>\n<p style=\"line-height: 140%;\">sed do eiusmod tempor in cididunt ut labore et dolore magna aliqua.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "100%"
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
+                  "border": {},
                   "borderRadius": "0px",
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
                   "backgroundColor": "rgb(255, 255, 255)",
                   "backgroundImage": {
                     "url": "",
@@ -915,10 +640,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -927,12 +650,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_1",
@@ -948,18 +665,9 @@
                 "autoWidth": true,
                 "width": "600px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -969,19 +677,12 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
           }
         ],
         "values": {
-          "color": "",
-          "headingType": "",
-          "fontFamily": {},
-          "fontSize": "",
-          "textAlign": "",
-          "lineHeight": "",
           "displayCondition": null,
           "_meta": {
             "htmlID": "u_row_5",
@@ -998,17 +699,9 @@
             "width": ""
           },
           "padding": "0px",
-          "border": {
-            "borderBottom": "",
-            "borderLeft": "",
-            "borderRight": "",
-            "borderTop": ""
-          },
-          "borderRadius": "",
+          "border": {},
           "calculatedWidth": null,
           "calculatedHeight": null,
-          "textColor": "",
-          "backgroundColor": "",
           "backgroundImage": {
             "url": "",
             "fullWidth": false,
@@ -1018,7 +711,6 @@
           },
           "contentWidth": "500px",
           "contentAlign": "center",
-          "preheaderText": "",
           "columns": false,
           "hideDesktop": false,
           "columnsBackgroundColor": ""
@@ -1036,12 +728,6 @@
               {
                 "type": "heading",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_heading_1",
@@ -1052,23 +738,14 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"v-col-background-color\" style=\"height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_7\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:25px 10px 10px 25px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-family: Arvo; font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\">01</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_6\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 10px 20px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-text-align v-line-height v-font-size\" style=\"margin: 0px; color: #1300c9; line-height: 120%; text-align: left; word-wrap: break-word; font-family: Arvo; font-size: 16px; font-weight: 400;\"><span><span>Ocean View Rooms</span></span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_9\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px 20px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\">This is a new Text block.</p>\n<p style=\"line-height: 140%;\">Change the text.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_11\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px 10px 43px 20px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\"><a href=\"assets/asset_9fc44c42.bin\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline; line-height: 19.6px;\"><strong>Read More</strong></span></a></p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "100%"
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
+                  "border": {},
                   "borderRadius": "0px",
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -1078,10 +755,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -1090,12 +765,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_1",
@@ -1111,18 +780,9 @@
                 "autoWidth": true,
                 "width": "200px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -1132,7 +792,6 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
@@ -1142,12 +801,6 @@
               {
                 "type": "heading",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_heading_1",
@@ -1158,23 +811,14 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"v-col-background-color\" style=\"height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_8\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:25px 10px 10px 15px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-family: Arvo; font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\">02</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_7\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 10px 15px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-text-align v-line-height v-font-size\" style=\"margin: 0px; color: #1300c9; line-height: 120%; text-align: left; word-wrap: break-word; font-family: Arvo; font-size: 16px; font-weight: 400;\"><span>Free Breakfast</span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_10\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px 15px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\">This is a new Text block.</p>\n<p style=\"line-height: 140%;\">Change the text.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_12\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px 10px 43px 15px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\"><a href=\"assets/asset_9fc44c42.bin\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline; line-height: 19.6px;\"><strong>Read More</strong></span></a></p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "100%"
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
+                  "border": {},
                   "borderRadius": "0px",
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -1184,10 +828,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -1196,12 +838,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_2",
@@ -1217,18 +853,9 @@
                 "autoWidth": true,
                 "width": "200px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -1238,7 +865,6 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
@@ -1248,12 +874,6 @@
               {
                 "type": "heading",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_heading_1",
@@ -1264,23 +884,14 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"v-col-background-color\" style=\"height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_3\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:25px 10px 10px 15px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-family: Arvo; font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\">03</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_4\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 10px 15px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-text-align v-line-height v-font-size\" style=\"margin: 0px; color: #1300c9; line-height: 120%; text-align: left; word-wrap: break-word; font-family: Arvo; font-size: 16px; font-weight: 400;\"><span><span>Relaxing Spa Services</span></span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_5\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px 15px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\">This is a new Text block.</p>\n<p style=\"line-height: 140%;\">Change the text.</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_6\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px 10px 43px 15px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; line-height: 140%; text-align: left; word-wrap: break-word;\">\n<p style=\"line-height: 140%;\"><a href=\"assets/asset_9fc44c42.bin\" rel=\"noopener\" target=\"_blank\"><span style=\"text-decoration: underline; line-height: 19.6px;\"><strong>Read More</strong></span></a></p>\n</div>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "100%"
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
+                  "border": {},
                   "borderRadius": "0px",
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -1290,10 +901,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -1302,12 +911,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_3",
@@ -1323,18 +926,9 @@
                 "autoWidth": true,
                 "width": "200px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -1344,19 +938,12 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
           }
         ],
         "values": {
-          "color": "",
-          "headingType": "",
-          "fontFamily": {},
-          "fontSize": "",
-          "textAlign": "",
-          "lineHeight": "",
           "displayCondition": null,
           "_meta": {
             "htmlID": "u_row_6",
@@ -1373,17 +960,9 @@
             "width": ""
           },
           "padding": "0px",
-          "border": {
-            "borderBottom": "",
-            "borderLeft": "",
-            "borderRight": "",
-            "borderTop": ""
-          },
-          "borderRadius": "",
+          "border": {},
           "calculatedWidth": null,
           "calculatedHeight": null,
-          "textColor": "",
-          "backgroundColor": "",
           "backgroundImage": {
             "url": "url(assets/1717401838845-Group_206.png)",
             "fullWidth": false,
@@ -1393,7 +972,6 @@
           },
           "contentWidth": "500px",
           "contentAlign": "center",
-          "preheaderText": "",
           "columns": false,
           "hideDesktop": false,
           "columnsBackgroundColor": ""
@@ -1409,12 +987,6 @@
               {
                 "type": "text",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_text_1",
@@ -1425,23 +997,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:30px 10px;font-family:'Raleway',sans-serif;\">\n<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"0px\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\" width=\"100%\">\n<tbody>\n<tr style=\"vertical-align: top\">\n<td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n<span>&nbsp;</span>\n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -1451,10 +1013,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -1464,12 +1024,6 @@
               {
                 "type": "heading",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_heading_2",
@@ -1480,23 +1034,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_3\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 0px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-text-align v-line-height v-font-size\" style=\"margin: 0px; color: #1300c9; line-height: 120%; text-align: center; word-wrap: break-word; font-family: Arvo; font-size: 22px; font-weight: 400;\"><span><span>This is a new Text<br>block. Change the text.</span></span></h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -1506,10 +1050,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -1519,12 +1061,6 @@
               {
                 "type": "text",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_text_3",
@@ -1535,23 +1071,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_button_3\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 40px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->\n<div align=\"center\" class=\"v-text-align\">\n<!--[if mso]><v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" href=\"assets/asset_2f8c5a96.bin\" style=\"height:37px; v-text-anchor:middle; width:174px;\" arcsize=\"11%\"  stroke=\"f\" fillcolor=\"#1300c9\"><w:anchorlock/><center style=\"color:#FFFFFF;\"><![endif]-->\n<a class=\"v-button v-size-width v-font-size\" href=\"assets/asset_2f8c5a96.bin\" style=\"box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #1300c9; border-radius: 4px;-webkit-border-radius: 4px; -moz-border-radius: 4px; width:30%; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;\" target=\"_blank\">\n<span class=\"v-line-height\" style=\"display:block;padding:10px 20px;line-height:120%;\"><span style=\"line-height: 16.8px;\">Book Now</span></span>\n</a>\n<!--[if mso]></center></v:roundrect><![endif]-->\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -1561,10 +1087,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -1574,12 +1098,6 @@
               {
                 "type": "image",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_image_4",
@@ -1590,23 +1108,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" src=\"/static/templates/seasonal-promotions-for-hotel-stays/assets/1717402334873-Mask_20group2.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 600px;\" title=\"image\" width=\"600\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -1616,12 +1124,10 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
-                    "url": "/static/templates/seasonal-promotions-for-hotel-stays/assets/1717402334873-Mask_20group2.png",
+                    "url": "assets/1717402334873-Mask_20group2.png",
                     "width": 600,
                     "height": "auto"
                   }
@@ -1629,12 +1135,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_1",
@@ -1650,18 +1150,9 @@
                 "autoWidth": true,
                 "width": "600px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -1671,19 +1162,12 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
           }
         ],
         "values": {
-          "color": "",
-          "headingType": "",
-          "fontFamily": {},
-          "fontSize": "",
-          "textAlign": "",
-          "lineHeight": "",
           "displayCondition": null,
           "_meta": {
             "htmlID": "u_row_7",
@@ -1700,17 +1184,9 @@
             "width": ""
           },
           "padding": "0px",
-          "border": {
-            "borderBottom": "",
-            "borderLeft": "",
-            "borderRight": "",
-            "borderTop": ""
-          },
-          "borderRadius": "",
+          "border": {},
           "calculatedWidth": null,
           "calculatedHeight": null,
-          "textColor": "",
-          "backgroundColor": "",
           "backgroundImage": {
             "url": "",
             "fullWidth": false,
@@ -1720,7 +1196,6 @@
           },
           "contentWidth": "500px",
           "contentAlign": "center",
-          "preheaderText": "",
           "columns": false,
           "hideDesktop": false,
           "columnsBackgroundColor": ""
@@ -1736,12 +1211,6 @@
               {
                 "type": "image",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_image_1",
@@ -1752,23 +1221,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_social_1\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:40px 10px 10px;font-family:'Raleway',sans-serif;\">\n<div align=\"center\" style=\"direction: ltr;\">\n<div style=\"display: table; max-width:281px;\">\n<!--[if (mso)|(IE)]><table width=\"281\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td style=\"border-collapse:collapse;\" align=\"center\"><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"border-collapse:collapse; mso-table-lspace: 0pt;mso-table-rspace: 0pt; width:281px;\"><tr><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 15px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 15px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_0c984410.bin\" target=\"_blank\" title=\"Facebook\">\n<img alt=\"Facebook\" src=\"/static/templates/seasonal-promotions-for-hotel-stays/assets/facebook.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"Facebook\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 15px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 15px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_29d720c9.bin\" target=\"_blank\" title=\"LinkedIn\">\n<img alt=\"LinkedIn\" src=\"/static/templates/seasonal-promotions-for-hotel-stays/assets/linkedin.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"LinkedIn\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 15px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 15px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_9fd8adc6.bin\" target=\"_blank\" title=\"Instagram\">\n<img alt=\"Instagram\" src=\"/static/templates/seasonal-promotions-for-hotel-stays/assets/instagram.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"Instagram\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 15px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 15px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_67f980d2.bin\" target=\"_blank\" title=\"Pinterest\">\n<img alt=\"Pinterest\" src=\"/static/templates/seasonal-promotions-for-hotel-stays/assets/pinterest.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"Pinterest\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 15px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 15px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_bb424721.bin\" target=\"_blank\" title=\"YouTube\">\n<img alt=\"YouTube\" src=\"/static/templates/seasonal-promotions-for-hotel-stays/assets/youtube.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"YouTube\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 0px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 0px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_de62a5c7.bin\" target=\"_blank\" title=\"X\">\n<img alt=\"X\" src=\"/static/templates/seasonal-promotions-for-hotel-stays/assets/x.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"X\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->\n</div>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -1778,12 +1237,10 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
-                    "url": "/static/templates/seasonal-promotions-for-hotel-stays/assets/facebook.png",
+                    "url": "assets/facebook.png",
                     "width": 32,
                     "height": "auto"
                   }
@@ -1792,12 +1249,6 @@
               {
                 "type": "text",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_text_2",
@@ -1808,23 +1259,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 30px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; color: #ffffff; line-height: 140%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 140%;\">email@website.com&nbsp;</p>\n<p style=\"font-size: 14px; line-height: 140%;\">+12 458 4658</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -1834,10 +1275,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -1846,12 +1285,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_1",
@@ -1867,18 +1300,9 @@
                 "autoWidth": true,
                 "width": "600px"
               },
-              "padding": "",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -1888,19 +1312,12 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
           }
         ],
         "values": {
-          "color": "",
-          "headingType": "",
-          "fontFamily": {},
-          "fontSize": "",
-          "textAlign": "",
-          "lineHeight": "",
           "displayCondition": null,
           "_meta": {
             "htmlID": "u_row_8",
@@ -1917,17 +1334,9 @@
             "width": ""
           },
           "padding": "0px",
-          "border": {
-            "borderBottom": "",
-            "borderLeft": "",
-            "borderRight": "",
-            "borderTop": ""
-          },
-          "borderRadius": "",
+          "border": {},
           "calculatedWidth": null,
           "calculatedHeight": null,
-          "textColor": "",
-          "backgroundColor": "",
           "backgroundImage": {
             "url": "",
             "fullWidth": false,
@@ -1937,7 +1346,6 @@
           },
           "contentWidth": "500px",
           "contentAlign": "center",
-          "preheaderText": "",
           "columns": false,
           "hideDesktop": false,
           "columnsBackgroundColor": ""
@@ -1953,12 +1361,6 @@
               {
                 "type": "text",
                 "values": {
-                  "color": "",
-                  "headingType": "",
-                  "fontFamily": {},
-                  "fontSize": "",
-                  "textAlign": "",
-                  "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
                     "htmlID": "u_content_text_1",
@@ -1969,23 +1371,13 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
-                  "text": "<div class=\"u-row\" style=\"margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;\">\n<div style=\"border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;\">\n<!--[if (mso)|(IE)]><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td style=\"padding: 0px;background-color: transparent;\" align=\"center\"><table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"width:600px;\"><tr style=\"background-color: transparent;\"><![endif]-->\n<!--[if (mso)|(IE)]><td align=\"center\" width=\"600\" class=\"v-col-background-color v-col-border\" style=\"background-color: #ffffff;width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\" valign=\"top\"><![endif]-->\n<div class=\"u-col u-col-100\" style=\"max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;\">\n<div class=\"v-col-background-color\" style=\"background-color: #ffffff;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_13\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:30px 60px;font-family:'Raleway',sans-serif;\">\n<div class=\"unlayer2be\"><div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; color: #000000; line-height: 140%; text-align: center; word-wrap: break-word;\">\n<p style=\"font-size: 14px; line-height: 140%;\">Discover our enticing seasonal offers for your upcoming stay. Book now and enjoy unmatched comfort and luxury!</p>\n</div></div>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>\n</div>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->\n</div>\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "320px"
                   },
-                  "padding": "",
-                  "border": {
-                    "borderBottom": "",
-                    "borderLeft": "",
-                    "borderRight": "",
-                    "borderTop": ""
-                  },
-                  "borderRadius": "",
+                  "border": {},
                   "calculatedWidth": null,
                   "calculatedHeight": null,
-                  "textColor": "",
-                  "backgroundColor": "",
                   "backgroundImage": {
                     "url": "",
                     "fullWidth": false,
@@ -1995,10 +1387,8 @@
                   },
                   "contentWidth": "500px",
                   "contentAlign": "center",
-                  "preheaderText": "",
                   "columns": false,
                   "hideDesktop": false,
-                  "containerPadding": "",
                   "src": {
                     "width": "auto",
                     "height": "auto"
@@ -2007,12 +1397,6 @@
               }
             ],
             "values": {
-              "color": "",
-              "headingType": "",
-              "fontFamily": {},
-              "fontSize": "",
-              "textAlign": "",
-              "lineHeight": "",
               "displayCondition": null,
               "_meta": {
                 "htmlID": "u_column_1",
@@ -2029,17 +1413,9 @@
                 "width": ""
               },
               "padding": "0px",
-              "border": {
-                "borderBottom": "",
-                "borderLeft": "",
-                "borderRight": "",
-                "borderTop": ""
-              },
-              "borderRadius": "",
+              "border": {},
               "calculatedWidth": null,
               "calculatedHeight": null,
-              "textColor": "",
-              "backgroundColor": "",
               "backgroundImage": {
                 "url": "",
                 "fullWidth": false,
@@ -2049,19 +1425,12 @@
               },
               "contentWidth": "500px",
               "contentAlign": "center",
-              "preheaderText": "",
               "columns": true,
               "hideDesktop": false
             }
           }
         ],
         "values": {
-          "color": "",
-          "headingType": "",
-          "fontFamily": {},
-          "fontSize": "",
-          "textAlign": "",
-          "lineHeight": "",
           "displayCondition": null,
           "_meta": {
             "htmlID": "u_row_9",
@@ -2078,17 +1447,9 @@
             "width": ""
           },
           "padding": "0px",
-          "border": {
-            "borderBottom": "",
-            "borderLeft": "",
-            "borderRight": "",
-            "borderTop": ""
-          },
-          "borderRadius": "",
+          "border": {},
           "calculatedWidth": null,
           "calculatedHeight": null,
-          "textColor": "",
-          "backgroundColor": "",
           "backgroundImage": {
             "url": "",
             "fullWidth": false,
@@ -2098,7 +1459,6 @@
           },
           "contentWidth": "500px",
           "contentAlign": "center",
-          "preheaderText": "",
           "columns": false,
           "hideDesktop": false,
           "columnsBackgroundColor": ""
@@ -2107,11 +1467,6 @@
     ],
     "values": {
       "color": "rgb(0, 0, 0)",
-      "headingType": "",
-      "fontFamily": {},
-      "fontSize": "",
-      "textAlign": "",
-      "lineHeight": "",
       "displayCondition": null,
       "_meta": {
         "htmlID": "u_body",
@@ -2128,13 +1483,7 @@
         "width": ""
       },
       "padding": "0px",
-      "border": {
-        "borderBottom": "",
-        "borderLeft": "",
-        "borderRight": "",
-        "borderTop": ""
-      },
-      "borderRadius": "",
+      "border": {},
       "calculatedWidth": null,
       "calculatedHeight": null,
       "textColor": "rgb(0, 0, 0)",
@@ -2148,7 +1497,6 @@
       },
       "contentWidth": "500px",
       "contentAlign": "center",
-      "preheaderText": "",
       "columns": false,
       "hideDesktop": false
     }
